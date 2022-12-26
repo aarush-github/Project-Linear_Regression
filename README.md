@@ -1,6 +1,6 @@
-# Tast_1_SparksFoundation
+# Machine Learning model: Linear Regression 
 # Made By Rishabh Shrivastava
-Tast_1 LinearRegression - Predicting the percentage of a student based on the number of study hours.
+Project#1 Predicting the percentage of a student based on the number of study hours using Linear Regression
 Hello!
 This is a Simple Linear Regression project to predict the percentage of a student based on the number of study hours using phyton.
 I hope you will find some value out of it!
